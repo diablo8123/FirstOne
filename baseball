@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="newcss.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body >
+       
+        <header> <h1> Le baseball </h1> </header>
+         
+        <nav><ul>
+ <li><a href="baseball.html">Page d'accueil</a></li>
+ <li><a href="origine.html">Origine</a></li>
+ <li><a href="jc.html">Biographie d'un joueur célèbre</a></li>
+</ul>
+        </nav>
+         <br>  <br> 
+         <article>
+             <h4>Rule of the game</h4>
+         <p class="p3">Baseball is a bat-and-ball game played between two teams of nine players each, who take turns batting and fielding. 
+             The batting team attempts to score runs by hitting a ball (that is thrown by the opposing team's pitcher) with a bat 
+             swung by the batter, and then running counter-clockwise around a series of four bases: first, second, third, and home
+             plate. A run is scored when a player advances around the bases and returns to home plate. Players on the batting team
+            take turns hitting against the pitcher of the fielding team, which tries to prevent runs by getting hitters out in any of
+       several ways. A player on the batting team who reaches a base safely can later attempt to advance to subsequent bases during
+             teammates' turns batting, such as on a hit or by other means. The teams switch between batting and fielding whenever the
+             fielding team records three outs. One turn batting for both teams, beginning with the visiting team, constitutes an inning.
+             A game is composed of nine innings, and the team with the greater number of runs at the end of the game wins. If scores are
+             tied at the end of nine innings, extra innings are usually played. Baseball has no game clock, although most games end in
+             the ninth inning.
+</p>
+        
+         
+<p class="p1"><span> Batting </span></p>   <p class="p6"><span> Pitcher </span></p>
+             <img src="attack.jpg"> 
+               <img src="pitcher.jpg"> 
+               <p class="p1"><span>Field</span></p>
+                <img src="field.jpg"> 
+           
+         
+             
+             
+             
+             
+             </article>
+    </body>
+</html>
